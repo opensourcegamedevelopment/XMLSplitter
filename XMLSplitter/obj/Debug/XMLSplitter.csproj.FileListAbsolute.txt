@@ -1,0 +1,10 @@
+D:\jinz-stuff\XMLSplitter\XMLSplitter\bin\Debug\XMLSplitter.exe.config
+D:\jinz-stuff\XMLSplitter\XMLSplitter\bin\Debug\XMLSplitter.exe
+D:\jinz-stuff\XMLSplitter\XMLSplitter\bin\Debug\XMLSplitter.pdb
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.csprojAssemblyReference.cache
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.Form1.resources
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.Properties.Resources.resources
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.csproj.GenerateResource.cache
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.csproj.CoreCompileInputs.cache
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.exe
+D:\jinz-stuff\XMLSplitter\XMLSplitter\obj\Debug\XMLSplitter.pdb
